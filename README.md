@@ -12,4 +12,4 @@ This repository showcases an advanced face detection and recognition system buil
 **Customizable Parameters:** Offers a wide range of customizable parameters, including batch size, resize scale, sharpness threshold, and more, to optimize performance and accuracy according to specific needs.
 GPU Acceleration: Leverages GPU acceleration (if available) for fast and efficient processing.
 Logging and Progress Tracking: Includes optional logging for debugging and progress tracking with tqdm for a better user experience.
-This system is perfect for applications requiring reliable face detection and recognition, such as security systems, user verification, and automated photo tagging.
+This system is perfect for applications requiring reliable face detection and recognition.
