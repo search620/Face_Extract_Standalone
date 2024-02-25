@@ -24,9 +24,9 @@ extract_from_video = False
 export_full_frame = True
 enable_target_face_detection = False
 
-target_face_path = r"F:\Tik Models\@sumnerstroh pic\43 sumnerstroh.jpg"
-input_path = r"F:\Tik Models\@sumnerstroh pic"
-export_path = r"C:\Users\HOME\Desktop\1\output"
+target_face_path = r"Target_face_path"
+input_path = r"Input_Path"
+export_path = r"Export_Path"
 
 
 enable_logging = False  
